@@ -1,0 +1,8 @@
+: “Data: UK Health Security Agency (UKHSA) data dashboard API. Weekly influenza PCR test positivity and hospital admission rates, England and UKHSA Regions.
+
+
+influenza_testing_positivityByWeek = % of influenza PCR tests positive in the 7 days to each date England, and the 9 UKHSA Regions
+
+influenza_healthcare_hospitalAdmissionRateByWeek Hospital admissions with flu per 100,000 people, weekly 9 UKHSA Regions (your partner: England)	part1_influenza_regions.py;
+
+influenza_healthcare_ICUHDUadmissionRateByWeek 	Intensive care / high dependency admissions with flu per 100,000, weekly England
