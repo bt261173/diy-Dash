@@ -1,0 +1,2 @@
+import ipywidgets as wdg
+wdg.IntSlider(description="Test")
